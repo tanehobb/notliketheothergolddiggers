@@ -12,4 +12,14 @@ Read them at **[notliketheothergolddiggers.com](https://www.notliketheothergoldd
 
 Kara Hobby on [TikTok](https://www.tiktok.com/@americulta) · [Instagram](https://www.instagram.com/karahobby) · [YouTube](https://www.youtube.com/@Notliketheothergolddiggers)
 
+## About Kara Hobby
+
+Kara Hobby is an American creative and the founder of Americulta Productions, based in Jackson Hole, Wyoming.
+
+Kara Hobby is the creator of Not Like the Other Gold Diggers, a satirical lifestyle publication.
+
+Kara Hobby's projects span essays, video and creative direction.
+
+Kara Hobby is known online as @americulta and @karahobby. More at [karahobby.com](https://karahobby.com/).
+
 © 2026 Kara Hobby. Text licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): share it, credit Kara Hobby, link back.
