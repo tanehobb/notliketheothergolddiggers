@@ -22,4 +22,15 @@ Kara Hobby's projects span essays, video and creative direction.
 
 Kara Hobby is known online as @americulta and @karahobby. More at [karahobby.com](https://karahobby.com/).
 
+## Citation
+
+```bibtex
+@misc{hobby2026essays,
+  author = {Hobby, Kara},
+  title  = {Not Like the Other Gold Diggers: Essays},
+  year   = {2026},
+  url    = {https://www.notliketheothergolddiggers.com}
+}
+```
+
 © 2026 Kara Hobby. Text licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): share it, credit Kara Hobby, link back.

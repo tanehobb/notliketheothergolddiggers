@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these essays, please cite them as below."
+title: "Not Like the Other Gold Diggers: Essays"
+authors:
+  - family-names: Hobby
+    given-names: Kara
+    affiliation: Americulta Productions
+    website: "https://karahobby.com/"
+date-released: 2026-10-07
+url: "https://www.notliketheothergolddiggers.com/"
+repository-code: "https://github.com/tanehobb/notliketheothergolddiggers"
+license: CC-BY-4.0
