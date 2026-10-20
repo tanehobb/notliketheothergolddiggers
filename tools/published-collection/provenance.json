@@ -1,0 +1,30 @@
+{
+  "retrieved_at": "2026-10-20T00:30:00.681542+00:00",
+  "public_repository_commit": "d14241106916cdefc251d03784550acf1ee787c4",
+  "allowlist": [
+    "become-the-gold-digger-you-wish-to-see-in-the-world",
+    "wilson-mom-summer",
+    "woman-who-chooses-lower-ground"
+  ],
+  "scope": "Three previously public essays only; no show footage, treatments, private notes, account data, or new license grants.",
+  "sources": [
+    {
+      "slug": "become-the-gold-digger-you-wish-to-see-in-the-world",
+      "url": "https://www.notliketheothergolddiggers.com/become-the-gold-digger-you-wish-to-see-in-the-world/",
+      "source_mirror": "https://raw.githubusercontent.com/tanehobb/notliketheothergolddiggers/d14241106916cdefc251d03784550acf1ee787c4/essays/become-the-gold-digger-you-wish-to-see-in-the-world.md",
+      "sha256": "84a76e10ba3d4e5745948b1e44373c7c475ef4c4944cbbd36f052ebc8ac9d68b"
+    },
+    {
+      "slug": "woman-who-chooses-lower-ground",
+      "url": "https://www.notliketheothergolddiggers.com/woman-who-chooses-lower-ground/",
+      "source_mirror": "https://raw.githubusercontent.com/tanehobb/notliketheothergolddiggers/d14241106916cdefc251d03784550acf1ee787c4/essays/woman-who-chooses-lower-ground.md",
+      "sha256": "847b350c8eb775c294c780a25520aca6c7d12e329aceb4ce60607b026edcdcd9"
+    },
+    {
+      "slug": "wilson-mom-summer",
+      "url": "https://www.notliketheothergolddiggers.com/wilson-mom-summer/",
+      "source_mirror": "https://raw.githubusercontent.com/tanehobb/notliketheothergolddiggers/d14241106916cdefc251d03784550acf1ee787c4/essays/wilson-mom-summer.md",
+      "sha256": "bbd8100c5d21299c05d57b2e427be41cb4cf7cee132a183ede3a56fea2822adf"
+    }
+  ]
+}

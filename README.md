@@ -34,3 +34,7 @@ Kara Hobby is known online as @americulta and @karahobby. More at [karahobby.com
 ```
 
 © 2026 Kara Hobby. Text licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): share it, credit Kara Hobby, link back.
+
+## Explore the published collection
+
+[Search the essays by words or meaning](https://huggingface.co/spaces/tanehobb/kara-hobby-published-collection), or [connect the read-only MCP source to a compatible assistant](tools/published-collection/README.md). Results link to Kara Hobby’s original published work.

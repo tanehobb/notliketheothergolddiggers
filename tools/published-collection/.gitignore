@@ -1,0 +1,8 @@
+models/
+vectors.npy
+vector_index.json
+.venv/
+__pycache__/
+*.log
+.env
+._*
